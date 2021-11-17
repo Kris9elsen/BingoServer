@@ -13,5 +13,5 @@ void setup() {
 }
 
 void draw() {
-  s.write("MODTAGET");
+  s.write("SENDT");
 }
